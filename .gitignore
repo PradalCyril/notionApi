@@ -2,3 +2,4 @@
 .DS_Store
 pokemons.zip
 /pokemons
+.env

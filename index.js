@@ -30,9 +30,9 @@ app.get('/getAllPokemons', async (req, res) => {
 
 app.post('/getPokemons', async (req, res) => {
   const { filters, language } = req.body;
-  console.log(req, req.body)
+  if(!filters || !language) return res.sendStatus(500);
   const formatedFilters = createFilters(filters)
-  const pages = await getPages(formatedFilters, language);
+  const pages = await getPages(formatedFilters, language, filters);
   res.json(pages);
 })
 
