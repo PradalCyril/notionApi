@@ -1,4 +1,5 @@
 export const formatNotionResponse = (data) => {
+    if(!data) return [];
     const formatedData = Object.keys(data).reduce((acc, e) => {
         const d = data[e]
         if(d.type === "rich_text") return {...acc, [e] : d["rich_text"][0].text.content } 

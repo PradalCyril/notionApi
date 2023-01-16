@@ -33,7 +33,6 @@ app.post('/getPokemons', async (req, res) => {
   if(!filters || !language) return res.sendStatus(500);
   const formatedFilters = createFilters(filters)
   const pages = await getPages(formatedFilters, language, filters);
-  console.log("🚀 ~ file: index.js:36 ~ app.post ~ pages", JSON.stringify(pages, null, 2))
   fs.writeFileSync( "monsterList.json", JSON.stringify(pages, null, 2))
   res.json(pages);
 })
