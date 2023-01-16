@@ -25,7 +25,7 @@ const formater = async (id, filter, language, defaultFilters) => {
         const formatedData = formatNotionResponse(el.properties);
         const lang = languages[language];
         let formatedResponse = {
-            name: formatedData[lang || languages.en],
+            name: Object.keys(languages).reduce((acc, lng) => ({ ...acc, [lng]: formatedData[languages[lng] || languages.en] }), {}),
             image: formatedData.Image,
             number: formatedData.Number,
             level: formatedData.RaidLevel

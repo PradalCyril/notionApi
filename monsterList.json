@@ -1,0 +1,192 @@
+[
+  {
+    "name": {
+      "ch": "妙蛙种子",
+      "en": "Bulbasaur",
+      "es": "Bulbasaur",
+      "fr": "Bulbizarre",
+      "de": "Bisasam",
+      "it": "Bulbasaur",
+      "jp": "フシギダネ",
+      "ko": "이상해씨",
+      "pt": "Bulbasaur",
+      "ru": "Bulbasaur",
+      "th": "Bulbasaur",
+      "tu": "Bulbasaur"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "number": 1,
+    "level": 1
+  },
+  {
+    "name": {
+      "ch": "小火龙",
+      "en": "Charmander",
+      "es": "Charmander",
+      "fr": "Salamèche",
+      "de": "Glumanda",
+      "it": "Charmander",
+      "jp": "ヒトカゲ",
+      "ko": "파이리",
+      "pt": "Charmander",
+      "ru": "Charmander",
+      "th": "Charmander",
+      "tu": "Charmander"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "number": 4,
+    "level": 1
+  },
+  {
+    "name": {
+      "ch": "杰尼龟",
+      "en": "Squirtle",
+      "es": "Squirtle",
+      "fr": "Carapuce",
+      "de": "Schiggy",
+      "it": "Squirtle",
+      "jp": "ゼニガメ",
+      "ko": "꼬부기",
+      "pt": "Squirtle",
+      "ru": "Squirtle",
+      "th": "Squirtle",
+      "tu": "Squirtle"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "number": 7,
+    "level": 1
+  },
+  {
+    "name": {
+      "ch": "皮卡丘",
+      "en": "Pikachu",
+      "es": "Pikachu",
+      "fr": "Pikachu",
+      "de": "Pikachu",
+      "it": "Pikachu",
+      "jp": "ピカチュウ",
+      "ko": "피카츄",
+      "pt": "Pikachu",
+      "ru": "Pikachu",
+      "th": "Pikachu",
+      "tu": "Pikachu"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "number": 25,
+    "level": null
+  },
+  {
+    "name": {
+      "ch": "尼多力诺",
+      "en": "Nidorino",
+      "es": "Nidorino",
+      "fr": "Nidorino",
+      "de": "Nidorino",
+      "it": "Nidorino",
+      "jp": "ニドリーノ",
+      "ko": "니드리노",
+      "pt": "Nidorino",
+      "ru": "Nidorino",
+      "th": "Nidorino",
+      "tu": "Nidorino"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "number": 33,
+    "level": 3
+  },
+  {
+    "name": {
+      "ch": "耿鬼",
+      "en": "Gengar",
+      "es": "Gengar",
+      "fr": "Ectoplasma",
+      "de": "Gengar",
+      "it": "Gengar",
+      "jp": "ゲンガー",
+      "ko": "팬텀",
+      "pt": "Gengar",
+      "ru": "Gengar",
+      "th": "Gengar",
+      "tu": "Gengar"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "number": 94,
+    "level": 3
+  },
+  {
+    "name": {
+      "ch": "咕咕",
+      "en": "Hoothoot",
+      "es": "Hoothoot",
+      "fr": "Hoothoot",
+      "de": "Hoothoot",
+      "it": "Hoothoot",
+      "jp": "ホーホー",
+      "ko": "부우부",
+      "pt": "Hoothoot",
+      "ru": "Hoothoot",
+      "th": "Hoothoot",
+      "tu": "Hoothoot"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+    "number": 163,
+    "level": 1
+  },
+  {
+    "name": {
+      "ch": "果然翁",
+      "en": "Wobbuffet",
+      "es": "Wobbuffet",
+      "fr": "Qulbutoké",
+      "de": "Woingenau",
+      "it": "Wobbuffet",
+      "jp": "ソーナンス",
+      "ko": "마자용",
+      "pt": "Wobbuffet",
+      "ru": "Wobbuffet",
+      "th": "Wobbuffet",
+      "tu": "Wobbuffet"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+    "number": 202,
+    "level": 3
+  },
+  {
+    "name": {
+      "ch": "大钢蛇",
+      "en": "Steelix",
+      "es": "Steelix",
+      "fr": "Steelix",
+      "de": "Stahlos",
+      "it": "Steelix",
+      "jp": "ハガネール",
+      "ko": "강철톤",
+      "pt": "Steelix",
+      "ru": "Steelix",
+      "th": "Steelix",
+      "tu": "Steelix"
+    },
+    "image": "https://firebasestorage.googleapis.com/v0/b/go-go-raid.appspot.com/o/images%2Fmega%2F208.png?alt=media&token=f3341796-165d-437f-ad42-def27a7f6bd5",
+    "number": 208,
+    "level": 4
+  },
+  {
+    "name": {
+      "ch": "莱希拉姆",
+      "en": "Reshiram",
+      "es": "Reshiram",
+      "fr": "Reshiram",
+      "de": "Reshiram",
+      "it": "Reshiram",
+      "jp": "レシラム",
+      "ko": "레시라무",
+      "pt": "Reshiram",
+      "ru": "Reshiram",
+      "th": "Reshiram",
+      "tu": "Reshiram"
+    },
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png",
+    "number": 643,
+    "level": 5
+  }
+]

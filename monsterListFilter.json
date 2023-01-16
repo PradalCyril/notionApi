@@ -1,0 +1,50 @@
+{
+    "language": "de",
+    "filters": [
+        {
+            "field": "FR",
+            "value": "Bulbizarre"
+        },
+        {
+            "field": "FR",
+            "value": "Salamèche"
+        },
+        {
+            "field": "FR",
+            "value": "Carapuce"
+        },
+        {
+            "field": "FR",
+            "value": "Pikachu"
+        },
+        {
+            "field": "FR",
+            "value": "Hoothoot"
+        },
+        {
+            "field": "FR",
+            "value": "Nidorino"
+        },
+        {
+            "field": "FR",
+            "value": "Ectoplasma"
+        },
+        {
+            "field": "FR",
+            "value": "Qulbutoké"
+        },
+        {
+            "field": "FR",
+            "value": "Qulbutoké"
+        },
+        {
+            "field": "FR",
+            "value": "Reshiram"
+        },
+        {
+            "field": "Number",
+            "value": 208,
+            "isMega": true
+        }
+    ]
+}
